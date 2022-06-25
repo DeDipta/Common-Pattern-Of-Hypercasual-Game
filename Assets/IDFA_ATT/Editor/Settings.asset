@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03c56f4cdea334434a135cc542728d53, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  PopupMessage: Your data will only be used to deliver personalized ads to you.
+  SkAdNetworkIds:
+  - sdkName: Aarki
+    enable: 1
+    skAdNetworkIds:
+    - 4fzdc2evr5.skadnetwork
+  - sdkName: AdMob
+    enable: 1
+    skAdNetworkIds:
+    - cstr6suwn9.skadnetwork
+  - sdkName: AppLovin
+    enable: 1
+    skAdNetworkIds:
+    - ludvb6z3bs.skadnetwork
+  - sdkName: Chartboost
+    enable: 1
+    skAdNetworkIds:
+    - f38h382jlk.skadnetwork
+  - sdkName: Facebook
+    enable: 1
+    skAdNetworkIds:
+    - n38lu8286q.skadnetwork
+    - v9wttpbfk9.skadnetwork
+  - sdkName: Fyber
+    enable: 1
+    skAdNetworkIds:
+    - 9g2aggbj52.skadnetwork
+  - sdkName: HyprMX SDK 5.4.0+
+    enable: 1
+    skAdNetworkIds:
+    - nu4557a4je.skadnetwork
+  - sdkName: InMobi
+    enable: 1
+    skAdNetworkIds:
+    - wzmmz9fp6w.skadnetwork
+  - sdkName: ironSource
+    enable: 1
+    skAdNetworkIds:
+    - su67r6k2v3.skadnetwork
+  - sdkName: Pangle(CN)
+    enable: 1
+    skAdNetworkIds:
+    - 238da6jt44.skadnetwork
+  - sdkName: Pangle(Non CN)
+    enable: 1
+    skAdNetworkIds:
+    - 22mmun2rn5.skadnetwork
+  - sdkName: Snap
+    enable: 1
+    skAdNetworkIds:
+    - 424m5254lk.skadnetwork
+  - sdkName: Tapjoy
+    enable: 1
+    skAdNetworkIds:
+    - ecpz2srf59.skadnetwork
+  - sdkName: UnityAds
+    enable: 1
+    skAdNetworkIds:
+    - 4dzt52r2t5.skadnetwork
+  - sdkName: Vungle
+    enable: 1
+    skAdNetworkIds:
+    - gta9lk7p23.skadnetwork
+  - sdkName: AdColony
+    enable: 0
+    skAdNetworkIds:
+    - 4pfyvq9l8r.skadnetwork
+  - sdkName: AdColony / Mobilike
+    enable: 0
+    skAdNetworkIds:
+    - 6g9af3uyq4.skadnetwork
+  - sdkName: AdTheorent
+    enable: 0
+    skAdNetworkIds:
+    - cg4yq2srnc.skadnetwork
+  - sdkName: Appier
+    enable: 0
+    skAdNetworkIds:
+    - v72qych5uu.skadnetwork
+  - sdkName: Appreciate
+    enable: 0
+    skAdNetworkIds:
+    - mlmmfzh3r3.skadnetwork
+  - sdkName: Beeswax
+    enable: 0
+    skAdNetworkIds:
+    - c6k4g5qg8m.skadnetwork
+  - sdkName: BidSlash
+    enable: 0
+    skAdNetworkIds:
+    - g28c52eehv.skadnetwork
+  - sdkName: Criteo
+    enable: 0
+    skAdNetworkIds:
+    - hs6bdukanm.skadnetwork
+  - sdkName: CrossInstall (Twitter)
+    enable: 0
+    skAdNetworkIds:
+    - prcb7njmu6.skadnetwork
+  - sdkName: Dataseat
+    enable: 0
+    skAdNetworkIds:
+    - m8dbw4sv7c.skadnetwork
+  - sdkName: Edge226
+    enable: 0
+    skAdNetworkIds:
+    - 9nlqeag3gk.skadnetwork
+  - sdkName: Fiksu
+    enable: 0
+    skAdNetworkIds:
+    - u679fj5vs4.skadnetwork
+  - sdkName: HyprMx
+    enable: 0
+    skAdNetworkIds:
+    - nu4557a4je.skadnetwork
+  - sdkName: Jampp
+    enable: 0
+    skAdNetworkIds:
+    - yclnxrl5pm.skadnetwork
+  - sdkName: Kayzen
+    enable: 0
+    skAdNetworkIds:
+    - 4468km3ulz.skadnetwork
+  - sdkName: LifeStreet
+    enable: 0
+    skAdNetworkIds:
+    - t38b2kh725.skadnetwork
+  - sdkName: Liftoff
+    enable: 0
+    skAdNetworkIds:
+    - 7ug5zh24hu.skadnetwork
+  - sdkName: LiquidM
+    enable: 0
+    skAdNetworkIds:
+    - rx5hdcabgc.skadnetwork
+  - sdkName: Loopme
+    enable: 0
+    skAdNetworkIds:
+    - 5lm9lj6jb7.skadnetwork
+  - sdkName: Maio
+    enable: 0
+    skAdNetworkIds:
+    - v4nxqhlyqp.skadnetwork
+  - sdkName: manage.com
+    enable: 0
+    skAdNetworkIds:
+    - 9rd848q2bz.skadnetwork
+  - sdkName: MediaSmart
+    enable: 0
+    skAdNetworkIds:
+    - 7rz58n8ntl.skadnetwork
+  - sdkName: MMG
+    enable: 0
+    skAdNetworkIds:
+    - ejvt5qm6ak.skadnetwork
+  - sdkName: mobupps
+    enable: 0
+    skAdNetworkIds:
+    - 275upjj5gd.skadnetwork
+  - sdkName: Moloco
+    enable: 0
+    skAdNetworkIds:
+    - 9t245vhmpl.skadnetwork
+  - sdkName: Personaly
+    enable: 0
+    skAdNetworkIds:
+    - 44jx6755aq.skadnetwork
+  - sdkName: Pubnative
+    enable: 0
+    skAdNetworkIds:
+    - tl55sbb4fm.skadnetwork
+  - sdkName: Remerge
+    enable: 0
+    skAdNetworkIds:
+    - 2u9pt9hc89.skadnetwork
+  - sdkName: RTB House
+    enable: 0
+    skAdNetworkIds:
+    - 8s468mfl3y.skadnetwork
+  - sdkName: Sift
+    enable: 0
+    skAdNetworkIds:
+    - klf5c3l5u5.skadnetwork
+  - sdkName: Smadex
+    enable: 0
+    skAdNetworkIds:
+    - ppxm28t8ap.skadnetwork
+  - sdkName: The Trade Desk
+    enable: 0
+    skAdNetworkIds:
+    - uw77j35x4d.skadnetwork
+  - sdkName: Valassis
+    enable: 0
+    skAdNetworkIds:
+    - mtkv5xtk9e.skadnetwork
+  - sdkName: Youappi
+    enable: 0
+    skAdNetworkIds:
+    - 3rd42ekr43.skadnetwork
+  nameSorting: 0
+  statusSorting: 1
+  textAsset: {fileID: 4900000, guid: 4a6b67956e3ff4eecaa4556a39af1e11, type: 3}

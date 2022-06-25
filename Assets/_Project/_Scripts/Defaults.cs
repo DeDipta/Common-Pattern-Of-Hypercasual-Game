@@ -10,6 +10,7 @@ public class Defaults : MonoBehaviour
     }
 
     public int levelDefault;
+    public bool isTutorialAvailable;
     public bool isMusicOnDefault;
     public bool isSfxOnDefault;
     public bool isVibrationOnDefault;
